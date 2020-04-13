@@ -11,3 +11,6 @@ A webtanár **oktatóvideója** alapján készült ez a *formázott* szöveg.
 2. lista elem
 3. lista elem
 
+Webtanár: http://webtanar.hu
+
+[Webtanár weblapja](http://webtanar.hu)
